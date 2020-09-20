@@ -1,1 +1,1 @@
-# Repositorio de la asignatura de Programacion Multimedia y Dispositivos Moviles
+# Repositorio de la asignatura de Programacion Multimedia Dispositivos Moviles
